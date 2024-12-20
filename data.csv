@@ -1,0 +1,55 @@
+email,ticker,Average Closing Price,Percentage Change,Highest Price,Lowest Price
+wnurfatihah@gmail.com,1155.KL,"Ticker
+1155.KL    10.22
+dtype: float64","Ticker
+1155.KL   -1.35
+dtype: float64","Ticker
+1155.KL    10.34
+dtype: float64","Ticker
+1155.KL    10.12
+dtype: float64"
+lynazynal@gmail.com,1155.KL,"Ticker
+1155.KL    9.96
+dtype: float64","Ticker
+1155.KL    18.44
+dtype: float64","Ticker
+1155.KL    10.94
+dtype: float64","Ticker
+1155.KL    9.0
+dtype: float64"
+aisyah@gmail.com,1155.KL,"Ticker
+1155.KL    9.83
+dtype: float64","Ticker
+1155.KL    0.0
+Name: 2024-05-06 00:00:00, dtype: float64","Ticker
+1155.KL    9.83
+dtype: float64","Ticker
+1155.KL    9.83
+dtype: float64"
+aisyah@gmail.com,1155.KL,"Ticker
+1155.KL    9.83
+dtype: float64","Ticker
+1155.KL    0.0
+Name: 2024-05-06 00:00:00, dtype: float64","Ticker
+1155.KL    9.83
+dtype: float64","Ticker
+1155.KL    9.83
+dtype: float64"
+aisyah@gmail.com,1155.kl,"Ticker
+1155.KL    10.01
+dtype: float64","Ticker
+1155.KL   -0.8
+dtype: float64","Ticker
+1155.KL    10.06
+dtype: float64","Ticker
+1155.KL    9.98
+dtype: float64"
+tehaa@gmail.com,1155.KL,"Ticker
+1155.KL    8.61
+dtype: float64","Ticker
+1155.KL    6.0
+dtype: float64","Ticker
+1155.KL    9.12
+dtype: float64","Ticker
+1155.KL    7.95
+dtype: float64"
